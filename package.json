@@ -1,0 +1,10 @@
+{
+  "name": "com.wattanagaming.localization",
+  "version": "0.1.0",
+  "description": "A simple tool to help translate your game into different languages",
+  "type": "tool",
+  "displayName": "Localization",
+  "author": {
+    "name": "Atirut Wattanamongkol"
+  }
+}
